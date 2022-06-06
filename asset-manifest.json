@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Atlan/static/css/main.4283a763.chunk.css",
+    "main.js": "/Atlan/static/js/main.c6d687c0.chunk.js",
+    "main.js.map": "/Atlan/static/js/main.c6d687c0.chunk.js.map",
+    "runtime-main.js": "/Atlan/static/js/runtime-main.461e987b.js",
+    "runtime-main.js.map": "/Atlan/static/js/runtime-main.461e987b.js.map",
+    "static/js/2.8ac14352.chunk.js": "/Atlan/static/js/2.8ac14352.chunk.js",
+    "static/js/2.8ac14352.chunk.js.map": "/Atlan/static/js/2.8ac14352.chunk.js.map",
+    "index.html": "/Atlan/index.html",
+    "precache-manifest.5e9550ba5ffd341a4ac40d1ac59bd073.js": "/Atlan/precache-manifest.5e9550ba5ffd341a4ac40d1ac59bd073.js",
+    "service-worker.js": "/Atlan/service-worker.js",
+    "static/css/main.4283a763.chunk.css.map": "/Atlan/static/css/main.4283a763.chunk.css.map",
+    "static/js/2.8ac14352.chunk.js.LICENSE.txt": "/Atlan/static/js/2.8ac14352.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.461e987b.js",
+    "static/js/2.8ac14352.chunk.js",
+    "static/css/main.4283a763.chunk.css",
+    "static/js/main.c6d687c0.chunk.js"
+  ]
+}
